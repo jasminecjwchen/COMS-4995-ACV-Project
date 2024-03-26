@@ -3,3 +3,5 @@
 /organized_data
 /preprocessed_data
 /split_data
+/unseen_data
+models v1/best_model.pth
