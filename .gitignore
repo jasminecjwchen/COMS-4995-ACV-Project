@@ -8,3 +8,4 @@ models v1/best_model.pth
 models_v2/best_model.pth
 models_v2/vit_multiclass.pth
 models_v2/vit_multiclass_concat.pth
+models_v2/vit_multiclass_concat_10_epoch.pth
