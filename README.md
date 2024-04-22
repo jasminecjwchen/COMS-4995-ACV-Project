@@ -16,4 +16,6 @@
 
 ### ViT:
   - ViT Multiclass Image Only: [vit_multiclass.pth](https://drive.google.com/file/d/1fISEKMOm9RFfOd-wumcMCOiBmXqFVtlc/view?usp=share_link)
+  - ViT Multiclass Concatenation Model: [vit_multiclass_concat.pth](https://drive.google.com/file/d/1-jfPuQnttVrBNkoX_uTu_jCyg5LJm7Qg/view?usp=share_link)
+  - ViT Multiclass Contenation with Neural Network Model: [vit_multiclass_concat_with_nn.pth](https://drive.google.com/file/d/1eB4Y1foTljMby35R9VUt_CeWs22yEE9n/view?usp=share_link)
 
