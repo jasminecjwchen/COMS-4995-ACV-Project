@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import torch
 import torch.nn as nn
 
-def train_model(model, optimizer, dataloaders,
+def train_model(model, optimizer, dataloaders, dataset_sizes,
                 criterion = None, scheduler = None, 
                 num_epochs = 1, patience = 10, 
                 output_filename = "best_model.pth",
