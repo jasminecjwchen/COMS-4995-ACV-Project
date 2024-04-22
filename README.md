@@ -7,5 +7,5 @@
 
 * Enhanced 5-class classifier with CNN (downsampled spoof images from original dataset + lives images from another dataset, grouped by gender and age): [enhanced_multiclass_cnn.pth](https://drive.google.com/file/d/1eapCHekVgl7QrSaYzXn5PBSK1umcq5-O/view?usp=sharing)
 
-* Generator: (https://drive.google.com/file/d/1KfKjb-qCuZpc5LuDAqsRtsY1uEeJ86RA/view?usp=sharing)
-* Discriminator: (https://drive.google.com/file/d/1aRgL1uWnqfajiyTGuFOIDN7ev09oMibz/view?usp=sharing)
+* Generator: [generator_model.pth](https://drive.google.com/file/d/1KfKjb-qCuZpc5LuDAqsRtsY1uEeJ86RA/view?usp=sharing)
+* Discriminator: [discriminator_model.pth](https://drive.google.com/file/d/1aRgL1uWnqfajiyTGuFOIDN7ev09oMibz/view?usp=sharing)
