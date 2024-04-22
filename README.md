@@ -13,3 +13,6 @@
  - Discriminator: [discriminator_model.pth](https://drive.google.com/file/d/1aRgL1uWnqfajiyTGuFOIDN7ev09oMibz/view?usp=sharing)
  - simple CNN on pretrained model using GAN generated images: [gan_simple_cnn.pth](https://drive.google.com/file/d/1Mk_UEo-uKuE6fvTJXZYwdL8sgwq_Ilbn/view?usp=sharing)
 
+* ViT:
+ - ViT Multiclass Image Only: [vit_multiclass.pth](https://drive.google.com/file/d/1fISEKMOm9RFfOd-wumcMCOiBmXqFVtlc/view?usp=share_link)
+
