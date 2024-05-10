@@ -12,3 +12,4 @@ models_v2/vit_multiclass_concat_10_epoch.pth
 models_v2/vit_multiclass_concat_nn_depth8_width16.pth
 models_v2/vit_multiclass_concat_nn_depth8_width16_10_epoch.pth
 models_v2/vit_binary_pretrained.pth
+models_v2/vit_binary_custom.pth
