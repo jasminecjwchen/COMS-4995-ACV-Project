@@ -1,9 +1,6 @@
-import numpy as np
 import time
 import copy
-from PIL import Image
 
-from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
 import torch
