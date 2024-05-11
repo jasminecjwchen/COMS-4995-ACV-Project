@@ -1,6 +1,7 @@
 # IdentityNet: A Platform for Facial Anti-Spoofing Detection
 
 Group 25: Catherine Lyu (hl3553), Lara Karacasu (lk2859), Jasmine Chen (jjc2328), YeongWoo (Janie) Kim (yk2920)
+
 Note on Code Reviews: all code reviews and discussions were done during weekly meetings. Please find documentation on code reviews in the appendix of the final report.
 
 ### Binary CNN
